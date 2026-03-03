@@ -1,5 +1,3 @@
-<h2>PompaDroid</h2>
-
 A simple 2D beat em up game made in Unity using assets and instructions from a Ray Wenderlich tutorial series found here: https://www.raywenderlich.com/5568-unity-beat-em-up-game-tutorial-getting-started
 
 This project was a means of exploring and learning the Unity engine better.
