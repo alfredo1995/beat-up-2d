@@ -4,8 +4,6 @@ A simple 2D beat em up game made in Unity using assets and instructions from a R
 
 This project was a means of exploring and learning the Unity engine better.
 
-<h3>Screenshots</h3>
-
 ![alt-text](https://github.com/dylanmpeck/PompaDroid/blob/master/screenshots/jump.png "Jump attack")
 ![alt-text](https://github.com/dylanmpeck/PompaDroid/blob/master/screenshots/boss.png "Boss")
 ![alt-text](https://github.com/dylanmpeck/PompaDroid/blob/master/screenshots/gameplay.png "Gameplay")
