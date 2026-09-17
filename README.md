@@ -6,6 +6,6 @@ This project was a means of exploring and learning the Unity engine better.
 ![alt-text](https://github.com/dylanmpeck/PompaDroid/blob/master/screenshots/boss.png "Boss")
 ![alt-text](https://github.com/dylanmpeck/PompaDroid/blob/master/screenshots/gameplay.png "Gameplay")
 
-<strong>UI for Mobile Builds: </strong>
+<strong>UI for Mobile Builds: </strong> 
 
 ![alt-text](https://github.com/dylanmpeck/PompaDroid/blob/master/screenshots/mobileui.png "Mobile UI")
